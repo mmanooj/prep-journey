@@ -2,7 +2,7 @@
 My Interview Preparation Journey recorded here. Will try to keep things interesting here to the best of my abilities :)
 
 # My study resources
-- **System Design**
+#### System Design ####
   - System Design, Alex Xu - Vol1, Vol2
   - Designing Data-Intensive Applications, Martin Kleppmann
   - [Complete System Design Videos](https://takeuforward.org/system-design/complete-system-design-roadmap-with-videos-for-sdes/)
@@ -10,34 +10,32 @@ My Interview Preparation Journey recorded here. Will try to keep things interest
   - Undertanding Distributed Systems, Robert Vitilio
   - [System Design 101](https://github.com/ByteByteGoHq/system-design-101)
   - [System Design Primer](https://github.com/donnemartin/system-design-primer)
-  - [System Design Challenges](https://www.systemsdesignchallenges.com/) 
-  
-  ***youtube videos***
-  - [System Design Interview](https://interviewing.io/guides/system-design-interview)
-  - [System Design Fight Club](https://www.youtube.com/@SDFC)
-  - [Tech dummies](https://www.youtube.com/@TechDummiesNarendraL)
-  - [Gaurav Sen](https://www.youtube.com/@gkcs)
+  - [System Design Challenges](https://www.systemsdesignchallenges.com/)
+  - youtube videos
+    - [System Design Interview](https://interviewing.io/guides/system-design-interview)
+    - [System Design Fight Club](https://www.youtube.com/@SDFC)
+    - [Tech dummies](https://www.youtube.com/@TechDummiesNarendraL)
+    - [Gaurav Sen](https://www.youtube.com/@gkcs)
  
-- **Algorithms & Data structures**
+#### Algorithms & Data structures ####
   - Cracking the coding interview, Gayle Laakmann
   - Data Structures and Algorithms made easy, Narasimha Karumanchi
   - [Algorithms Notes](https://github.com/mmanooj/study/blob/main/Algorithms.pdf)
-  - [Top Google Questions](https://github.com/mmanooj/study/blob/main/Algorithms_GoogleQnA.pdf)  
-  
-  ***youtube videos***
-  - [William Fiset](https://www.youtube.com/@WilliamFiset-videos)
+  - [Top Google Questions](https://github.com/mmanooj/study/blob/main/Algorithms_GoogleQnA.pdf)
+  - youtube videos
+    - [William Fiset](https://www.youtube.com/@WilliamFiset-videos)
 
-- **Design patterns**
+#### Design patterns ####
   - Object Oriented Design patterns
   - [Microservices](https://microservices.io/)
   - [Microservice Design Patterns](https://dzone.com/articles/design-patterns-for-microservices-ambassador-anti)
   - SOLID
 
-- **AWS**
+#### AWS ####
   - [AWS Skill Builder](https://s6hqndkr.r.us-west-2.awstrack.me/L0/https:%2F%2Fexplore.skillbuilder.aws%2Flearn/1/0101018b3f2c11f2-2ad67291-84d6-4f83-b9d0-5c20783234eb-000000/bJtr_7vKMb1Ym4Bt6fEGApt6gfg=345)
   - [AWS Tutorial for Beginners](https://www.youtube.com/watch?v=k1RI5locZE4&t=8405s)
 
-- **Miscellaneous**
+#### Miscellaneous ####
   - https://github.com/bradtraversy/traversy-js-challenges
   - http://highscalability.com/
   - https://www.designgurus.io/
