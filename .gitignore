@@ -1,0 +1,16 @@
+# Intellij stuff
+*.iws
+.idea
+
+# npm
+node_modules
+*.log
+*.gz
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Application stuff
+logs/*
