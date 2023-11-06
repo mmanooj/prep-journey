@@ -95,4 +95,4 @@ When user inputs,
   - pop > remove element from the DS if initialized, else throw error
   - print > print all elements in the DS if initialized, else throw error
   - flush > print all elements in the DS if initialized & empty the DS, else throw error
-  - exit > exist the application
+  - exit > exit the application
