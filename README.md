@@ -96,3 +96,9 @@ When user inputs,
   - print > print all elements in the DS if initialized, else throw error
   - flush > print all elements in the DS if initialized & empty the DS, else throw error
   - exit > exit the application
+#### Design a File Management app (completely using cloud components) ####
+  - UI to upload a file to S3
+  - Send email on successful upload to an email address
+  - Email can be replied to with a new # location to move the file
+  - Move the file to the new S3 location 
+  - Send email confirmation of the successful move
