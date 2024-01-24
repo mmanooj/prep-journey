@@ -20,6 +20,7 @@ My Interview Preparation Journey recorded here. Will try to keep things interest
   - Cracking the coding interview, Gayle Laakmann
   - Data Structures and Algorithms made easy, Narasimha Karumanchi
   - Algorithms Notes
+  - [Crack The Coding Interview - Dinesh Varyani](https://docs.google.com/spreadsheets/d/1pnI8HmSMPcfwrCCu7wYETCXaKDig4VucZDpcjVRuYrE/edit#gid=237636947)
   - Top Google Questions
   - youtube videos
     - [William Fiset](https://www.youtube.com/watch?v=RBSGKlAvoiM)
@@ -31,6 +32,7 @@ My Interview Preparation Journey recorded here. Will try to keep things interest
   - [Microservice Design Patterns](https://dzone.com/articles/design-patterns-for-microservices-ambassador-anti)
   - SOLID
   - [Cloud design patterns](https://learn.microsoft.com/en-us/azure/architecture/patterns/)
+  - [Cloud application best practices](https://learn.microsoft.com/en-us/azure/architecture/best-practices/index-best-practices)
 
 #### AWS ####
   - [AWS Skill Builder](https://s6hqndkr.r.us-west-2.awstrack.me/L0/https:%2F%2Fexplore.skillbuilder.aws%2Flearn/1/0101018b3f2c11f2-2ad67291-84d6-4f83-b9d0-5c20783234eb-000000/bJtr_7vKMb1Ym4Bt6fEGApt6gfg=345)
@@ -39,6 +41,7 @@ My Interview Preparation Journey recorded here. Will try to keep things interest
 
 #### Miscellaneous ####
   - https://github.com/DopplerHQ/awesome-interview-questions
+  - https://github.com/yangshun/tech-interview-handbook
   - https://www.programming-books.io/essential/nodejs/index.html
   - https://github.com/tejasrsuthar/Awesome-NodeJS
   - [Net Ninja](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg)
